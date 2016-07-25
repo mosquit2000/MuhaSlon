@@ -1,0 +1,2 @@
+inputwordsthesame.txt
+dictbadwords.txt
